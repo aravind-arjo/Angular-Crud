@@ -1,0 +1,86 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "fruits",
+      "freshness": "BrandNew",
+      "price": 250,
+      "comments": "A fresh Apple",
+      "date": "2022-10-26T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Redmi",
+      "category": "electronics",
+      "freshness": "BrandNew",
+      "price": 10000,
+      "comments": "Brand new Phone",
+      "date": "2022-10-26T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Realme",
+      "category": "electronics",
+      "freshness": "Second Hand",
+      "price": 8000,
+      "comments": "Second Hand Android Phone",
+      "date": "2022-10-25T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Mango",
+      "category": "fruits",
+      "freshness": "BrandNew",
+      "price": 100,
+      "comments": "A new Mango flavour",
+      "date": "2022-10-27T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Poco F2",
+      "category": "electronics",
+      "freshness": "Second Hand",
+      "price": 10000,
+      "comments": "A second Hand Mobile",
+      "date": "2022-10-27T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Banana",
+      "category": "fruits",
+      "freshness": "BrandNew",
+      "price": 60,
+      "comments": "Fresh bananas",
+      "date": "2022-10-27T18:30:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Dates",
+      "category": "fruits",
+      "freshness": "BrandNew",
+      "price": 300,
+      "comments": "fresh Dates",
+      "date": "2022-10-27T18:30:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Laptop Dell",
+      "category": "electronics",
+      "freshness": "Refurbished",
+      "price": 12000,
+      "comments": "A refurbished Laptop",
+      "date": "2022-10-27T18:30:00.000Z",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
